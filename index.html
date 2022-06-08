@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Ultimate Fullspeed Resources</title>
+    <link rel="stylesheet" href="https://unpkg.com/docute@4/dist/docute.css">
+</head>
+<body>
+    <div id="docute"></div>
+    <script src="https://unpkg.com/docute@4/dist/docute.js"></script>
+    <script>
+        new Docute({
+            title: "Ultimate Fullspeed Resources",
+            darkThemeToggler: true,
+            
+            nav: [
+                { title: 'Home', link: '/' },
+                { title: 'Guide', link: '/book' }
+            ],
+            
+            sidebar: [
+                { title: 'Introduction To Fullspeed', link: '/book/introduction' },
+                { title: 'Game Setup', children: [] },
+                { title: 'Your Speed', children: [] },
+                { title: 'Grip Management', lchildren: [] },
+                { title: 'Air Time', children: [] },
+                { title: 'Roller Coasters', children: [] },
+                {
+                    title: 'Speed Drifting',
+                    children: [
+                        { title: 'What is and how to Speed Drift', link: '' },
+                        { title: 'Skids Overlap', link: '/book/speed-drifting/skids-overlap' },
+                        { title: 'Ways to Start an SD', link: '' }
+                    ]
+                },
+                { title: 'Advanced Techniques', children: [] },
+                { title: 'Case Studies', children: [] },
+                { title: 'Fullspeed Mapping', children: [] },
+                {
+                    title: 'Appendix',
+                    children: [
+                        { title: 'FS Track Features', link: '/book/appendix/track-features' },
+                        { title: 'Glossary', link: '/book/appendix/glossary' }
+                    ]
+                }
+            ]
+        })
+    </script>
+</body>
+</html>
