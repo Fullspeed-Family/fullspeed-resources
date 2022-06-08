@@ -22,7 +22,7 @@ Obviously, plastic does not have visible skid marks, you'll have to feel or imag
 | 995       |          80%          |          -         |          -          |          96%          |
 
 ### Visual: Asphalt/Tarmac
-![Visual Asphalt SD Overlap](/book/images/visual_sd_overlap_asphalt.png)
+![Visual Asphalt SD Overlap](/fullspeed-resources/book/images/visual_sd_overlap_asphalt.png)
 
 ### Visual: Dirt
 ### Visual: Grass
@@ -32,7 +32,7 @@ For any given speed, you accelerate a certain amount when driving straight witho
 
 Depending on the overlap of the skid marks, this acceleration becomes better and better until you reach the optimal overlap for the current speed. However, if you overlap more than the optimal overlap, your acceleration boost will begin to decrease instead.
 
-![Generic SD Graph](/book/images/generic_sd_graph.png)
+![Generic SD Graph](/fullspeed-resources/book/images/generic_sd_graph.png)
 
 The graph above shows the generic behavior of the relationship between skid overlap and acceleration. The Y axis is the acceleration, and the X axis is the overlap, with more overlap to the left and less overlap to the right. The gray straight line in the middle is the base acceleration for a given speed.
 
