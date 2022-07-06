@@ -7,7 +7,6 @@ Obviously, plastic does not have visible skid marks, you'll have to feel or imag
 
 | **Speed** | **Asphalt (Overlap)** | **Dirt (Overlap)** | **Grass (Overlap)** | **Plastic (Overlap)** |
 |-----------|-----------------------|--------------------|---------------------|-----------------------|
-| 200       |           -           |         90%        |         92%         |          82%          |
 | 220       |           -           |         80%        |         83%         |          83%          |
 | 300       |           -           |         85%        |         88%         |          88%          |
 | 400       |           -           |         87%        |         89%         |          89%          |
