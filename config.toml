@@ -8,7 +8,7 @@ theme = "hugo-learn-theme"
 home = [ "HTML", "RSS", "JSON" ]
 
 [params]
-editURL = "https://github.com/Fullspeed-Family/fullspeed-resources/docs/content/"
+editURL = "https://github.com/Fullspeed-Family/fullspeed-resources/edit/main/content/"
 showVisitedLinks = false
 disableLanguageSwitchingButton = true
 themeVariant = "fsf"
