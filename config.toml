@@ -1,0 +1,13 @@
+baseURL = 'https://fsfam.club/resources'
+languageCode = 'en-us'
+title = 'Fullspeed Resources'
+theme = "hugo-learn-theme"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[params]
+editURL = "https://github.com/Fullspeed-Family/fullspeed-resources/docs/content/"
+showVisitedLinks = false
+disableLanguageSwitchingButton = true
+themeVariant = "fsf"
