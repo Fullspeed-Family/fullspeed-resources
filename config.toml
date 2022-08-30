@@ -21,5 +21,5 @@ weight = 20
 
 [[menu.shortcuts]]
 name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-url = "more/credits/"
+url = "appendix/credits/"
 weight = 30
