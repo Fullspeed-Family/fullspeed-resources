@@ -2,7 +2,7 @@ baseURL = 'https://fsfam.club/resources'
 canonifyurls = true
 languageCode = 'en-us'
 title = 'Fullspeed Resources'
-theme = "hugo-learn-theme"
+theme = "hugo-relearn-theme"
 
 [outputs]
 home = [ "HTML", "RSS", "JSON" ]
