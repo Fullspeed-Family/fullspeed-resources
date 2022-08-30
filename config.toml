@@ -12,3 +12,14 @@ editURL = "https://github.com/Fullspeed-Family/fullspeed-resources/edit/main/con
 showVisitedLinks = false
 disableLanguageSwitchingButton = true
 themeVariant = "fsf"
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-fw fa-discord'></i> FSFam Discord"
+identifier = "ds"
+url = "https://discord.gg/dxMjG732ZY"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "more/credits/"
+weight = 30

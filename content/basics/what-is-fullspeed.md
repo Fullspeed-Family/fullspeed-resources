@@ -20,7 +20,9 @@ Each of the styles have their perks and should all be learned. Because if you kn
 
 That said, there is one popular style that a big part of the community loves to drive. It is the ultimate style of speed, wicked transitions and rollercoasters elements. This is Fullspeed and the style we will teach you about in this guide.
 
-> TrackMania provides an immense depth to the game. This depth provides so many different details, so many tricks, so many lines and track features that people started categorizing them into styles. Each style usually feature certain track features and gameplay tricks. Fullspeed is one of those styles that features speed, wicked transitions and rollercoaster elements.
+{{% notice style="blue" %}}
+TrackMania provides an immense depth to the game. This depth provides so many different details, so many tricks, so many lines and track features that people started categorizing them into styles. Each style usually feature certain track features and gameplay tricks. Fullspeed is one of those styles that features speed, wicked transitions and rollercoaster elements.
+{{% /notice %}}
 
 ## What is Fullspeed?
 So what separates Fullspeed from the other styles? Well as I said earlier, the most prominent feature of Fullspeed is speed. Fullspeed tracks tends to feature speeds well above 400. Most Fullspeed tracks lie between the 500-800 speed range.
@@ -35,7 +37,9 @@ Certain track features like loops, wallrides, tubes etc. may slow you down. But 
 
 There is, however a certain trick in Fullspeed called S4D where you break to start a speed drift. This is the ONLY exception for when breaking is accepted. It is simply a small tap on the break to start a speed drift in other to gain even more speed. The reason this is still accepted is that it is a trick to gain speed.
 
-> If you can drive through the entire track without breaking, releasing, crashing or drifting to slow down, the map is considered to be Fullspeed.
+{{% notice style="blue" %}}
+If you can drive through the entire track without breaking, releasing, crashing or drifting to slow down, the map is considered to be Fullspeed.
+{{% /notice %}}
 
 If you do a drift to slow down in order to manage a turn, then you are not really doing something to gain more speed, you are simply slowing down to do a faster line, this is not Fullspeed. Which brings us to the next point.
 

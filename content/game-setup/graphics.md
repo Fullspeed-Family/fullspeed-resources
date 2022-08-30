@@ -7,7 +7,9 @@ weight: 2
 
 Since Fullspeed is such a high-speed and intensive style to play, having good frame rate will be quite important as it helps with reaction times and seeing what is coming at you in the track.
 
-Under *Settings -> Graphics* you will find all settings related to the graphics of the game.
+{{% notice style="info" %}}
+Under **Settings -> Graphics** you will find all settings related to the graphics of the game.
+{{% /notice %}}
 
 ## Shader Quality
 One of the most impactful options on your FPS is the "Shader quality" option. Setting this to low, should boost your FPS by quite a bit. However, there is an important thing to consider in Fullspeed with this option. The lower this option is, the more transparent your skid marks will be. This can be annoying when it comes to speed drifting as you typically need to see the exact overlap. However, there is a solution to this problem below under [Custom Skid Marks](#custom-skid-marks).
