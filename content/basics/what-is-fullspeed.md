@@ -48,6 +48,6 @@ Many people think that if you hold the accelerator through the entire track and 
 
 The rules on what Fullspeed is applies to all surfaces, whether it is asphalt, dirt, grass, ice etc. It does not matter if you have to slow down in a way to manage the track.
 
-Grass Fullspeed is a popular style in Track Of The Day, but in most of these tracks, you have to drift on the grass, slowing down in order to make a turn. Contra to many people's belief, this is *not* actually Fullspeed. Those tracks are simply a fast track where you don't release the accelerator.
+"Grass Fullspeed" is a popular style in Track Of The Day, but in most of these tracks, you have to drift on the grass, slowing down in order to make a turn. Contra to many people's belief, this is *not* actually Fullspeed. Those tracks are simply a fast track where you don't release the accelerator.
 
 There are actually sub-styles for these "almost fullspeed" tracks. And they even used to have a very active community back in the day in the form of SpeedFun and FunSpeed. You can read more about the differences of the "speed" styles on [this TrackMania Wiki page](https://wiki.trackmania.io/en/Gameplay/Styles/SpeedStylesCompared).
