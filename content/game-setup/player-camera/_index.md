@@ -22,6 +22,8 @@ Camera 3 is the camera that is positioned within the cockpit of your car. This i
 
 Under *SETTINGS -> INTERFACE -> MISCELLANEOUS* you can find options for your player camera. There are 3 options that you can consider using.
 
+{{< figure src="settings.png" alt="Camera Settings" >}}
+
 - **Prioritize alternate cockpit view** - If you enable this, the car will not be shown in Camera 3. This gives you even more visibility, however the speedometer will now be gone and you can no longer check your speed. However, there are plugins in Openplanet (see below) that solves this issue.
 - **Player visibility for cockput view: Opaque** - This option shows the car and speed with no transparency.
 - **Player visibility for cockput view: Transparent** - This should be the best option for Fullspeed players. It shows the car, but in a transparent way so you have the full visibility of what is in front of you. But more important, it also shows the speedometer.
