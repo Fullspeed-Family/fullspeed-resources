@@ -3,6 +3,10 @@ archetype = "home"
 title = "Fullspeed"
 +++
 
+{{% notice style="blue" %}}
+If you are interested in the definition of fullspeed, click [here](/basics/what-is-fullspeed)!
+{{% /notice %}}
+
 Fullspeed is a substyle in Trackmania where driving happen on maps that allows players to hold gas throughout the entire track without drifting, releasing, braking or crashing. The essential element of Fullspeed is the speed and momentum that you build up through the track until the finish line.
 
 The speed you accumulate in different sections of the tracks snowballs throughout the entire track, giving players an incredible amount of speed, sometimes even reaching the absolute maximum amount of speed the car can drive.
