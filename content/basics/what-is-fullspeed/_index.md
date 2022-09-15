@@ -38,7 +38,7 @@ Certain track features like loops, wallrides, tubes etc. may slow you down. But 
 There is, however a certain trick in Fullspeed called S4D where you break to start a speed drift. This is the ONLY exception for when breaking is accepted. It is simply a small tap on the break to start a speed drift in other to gain even more speed. The reason this is still accepted is that it is a trick to gain speed.
 
 {{% notice style="blue" %}}
-If you can drive through the entire track without breaking, releasing, crashing or drifting to slow down, the map is considered to be Fullspeed.
+If you can drive through the entire track without breaking, releasing, crashing or drifting to slow down, on any surface, the map is considered to be Fullspeed.
 {{% /notice %}}
 
 If you do a drift to slow down in order to manage a turn, then you are not really doing something to gain more speed, you are simply slowing down to do a faster line, this is not Fullspeed. Which brings us to the next point.
