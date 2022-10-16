@@ -30,8 +30,10 @@ To help illustrate what I mean by these different types of drifting, check out t
 ![Drift Types](drift_types.png)
 
 ## Smooth Driving
-When you drive Fullspeed, the best way to avoid drifting too much is to smoothen your steering inputs. On keyboard, this means small taps, while on controller you use the advantage of having an analog input. Some modern Fullspeed tracks are so well calculated that they almost guide you through the turns and features so that it makes it easier to minimize steering.
+When you drive Fullspeed, the best way to avoid drifting too much is to smoothen your steering inputs. On keyboard, this means small taps, while on controller you use the advantage of having an analog input.
 
-Drive the track smoothly, as much forward as possible, avoid sudden and hard steering inputs. This may be very difficult for a beginner, but the best way to get better at smooth driving is to get used to planning a head of time. Think about what is coming next, how different approaches will affect your line.
+Another reason to turn smoothly is that you actually lose a tiny bit of speed every time you turn, so if you minimize the amount of turning required, you will in generally be faster. The more you turn, the slower the forward acceleration will be. This can actually give an effect in longer tracks.
+
+Drive the track smoothly, as much forward as possible, avoid sudden and hard steering inputs. This may be very difficult for a beginner, but the best way to get better at smooth driving is to get used to planning a head of time. Think about what is coming next, how different approaches will affect your line. Some modern Fullspeed tracks are so well calculated that they almost guide you through the turns and features so that it makes it easier to minimize steering.
 
 The more you practice this, the better you get and you will automatically become faster in general by just driving more smoothly. If you are on controller, a tip could be to turn your sensitivity down, making your steering more "heavy" which forces you to turn more smoothly.
