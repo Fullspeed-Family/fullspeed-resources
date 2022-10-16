@@ -21,7 +21,7 @@ As an example, this video illustrates how bad drifting can be in Fullspeed:
 You can see how much more speed the car that isn't drifting compared to the car that is drifting. This gives a huge lead by the end. In real fullspeed tracks that are much longer than the one in the example video, this small drift can be the difference of seconds by the end of the track.
 
 ### Different drifting types
-A full drift occurs when your drifting angle is so high that you see 4 skid marks behind your car. When the skids of your front and back wheels overlap while driving more than 420 km/h, this is called a *speed drift*. When your back and front wheels overlap completely, it is called a *no-slide*. Only the second option will not lose speed.
+A full drift occurs when your drifting angle is so high that you see 4 skid marks behind your car. When the skids of your front and back wheels overlap while driving more than 420 km/h, this is called a *speed drift*. When your back and front wheels overlap completely, it is called a *noslide*. Only the second option will not lose speed.
 
 To help illustrate what I mean by these different types of drifting, check out this image:
 
