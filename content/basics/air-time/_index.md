@@ -17,7 +17,7 @@ The following video demonstrates what air-time can do to your speed. You will se
 {{< examplevideo src="demo_airtime.mp4" type="video/mp4" >}}
 
 ## Air-Time Reduction
-The previous video already shows a way to reduce air time. There are actually real-tracks where you can simply drive on the side of the ramp. An example of this is [Proyect » Revival by Chroma](https://trackmania.exchange/maps/19380/proyect-revival).
+The previous video already shows a way to reduce air time. There are actually real tracks where you can simply drive on the side of the ramp. An example of this is [Proyect » Revival by Chroma](https://trackmania.exchange/maps/19380/proyect-revival).
 
 Reducing air time is for the most part finding creative ways to either avoid jumps or using existing techniques to land on the track sooner. Sometimes it is not very obvious whether you have air time or not. Many beginners don't understand that you can actually get air time when entering and exiting a wall ride for example. We will go over this later.
 
