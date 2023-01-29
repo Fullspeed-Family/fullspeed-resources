@@ -1,12 +1,12 @@
 +++
 title = "Appendix"
 date = 2022-08-27T12:49:11+02:00
-weight = 8
+weight = 9
 chapter = true
-pre = "<b>8. </b>"
+pre = "<b>9. </b>"
 +++
 
-### Chapter 8
+### Chapter 9
 
 # Appendix
 
