@@ -4,6 +4,10 @@ title = "Fullspeed"
 +++
 
 {{% notice style="blue" %}}
+This wiki is currently under construction, alot of content is missing and. But enjoy what we have so far!
+{{% /notice %}}
+
+{{% notice style="blue" %}}
 If you are interested in the definition of fullspeed, click [here](/basics/what-is-fullspeed/)!
 {{% /notice %}}
 
@@ -26,7 +30,7 @@ Fullspeed is a style where the tinest of details matter, and with so many small 
 
 When playing Fullspeed, focus on the details but avoid overcomplicating. Drive more direct lines. Fullspeed is about driving everything as smooth as possible, which usually means minimizing the amount of steering you do. It's sort of like simplifying everything to avoid as much steering as possible.
 
-Sometimes the weirdest lines are the fastest ways to approach a section in a fullspeed track. These are not very obvious. When figuring out a map, try different approaches, different , even try stuff that doesn't seem to be the best way. This gives you a much better understanding of the map and fullspeed in general than just copying other's lines.
+Sometimes the weirdest lines are the fastest ways to approach a section in a fullspeed track. These are not very obvious. When figuring out a map, try different approaches, different lines, even try stuff that doesn't seem to be the best way. This gives you a much better understanding of the map and fullspeed in general than just copying other's lines.
 
 Since fullspeed is all about momentum and snowballing your speed throughout the entire map, the speed is your number one metric for how well you are driving the different sections. Get used to keep an eye on your speed throughout the entire map.
 
