@@ -4,7 +4,7 @@ title = "Fullspeed"
 +++
 
 {{% notice style="blue" %}}
-This wiki is currently under construction, alot of content is missing and. But enjoy what we have so far!
+This wiki is currently under construction, alot of content is missing and. But enjoy what we have so far! Everyone is also welcome to contribute by clicking [here](https://github.com/Fullspeed-Family/fullspeed-resources)!
 {{% /notice %}}
 
 {{% notice style="blue" %}}
