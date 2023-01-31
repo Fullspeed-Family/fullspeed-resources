@@ -30,7 +30,7 @@ A cake is a feature that looks like a rounded wallride.
 Cam 1 is the overivew camera. Cam 2 is a camera behind the car and follows the angle of your car. Cam 3 is the cockpit camera inside the car.
 
 ##### Cobra
-A cobra is the name of a twisty loop/turnover feature. It is charcterized by the twist being at the top, but it is possible to drive it from the bottom or from the top. The cobra comes from a picture Aethal posted in the fsfam discord: ![Cobra](cobra.png)
+A cobra is the name of a twisty loop/turnover feature. It is charcterized by the twist being at the top, but it is possible to drive it from the bottom or from the top. The cobra comes from a picture posted in the fsfam discord: ![Cobra](cobra.png)
 
 ##### Flow Trick
 A flow trick is a technique where you drive over the curb on the side of the road, right before a jump. This gives you a nose-dive effect. The trick does not exist in TM2020 as the randstein curbs no longer exists. Used to reduce air time.
