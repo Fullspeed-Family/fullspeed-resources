@@ -7,7 +7,7 @@ weight: 1
 Here you can find short descriptions of terms, names and other things that pop up in fullspeed.
 
 ##### aAace
-This often pops up in a team competition when every member of one team finishes before any of the opponent team's players. It comes from the old Fullspeed team *against All Authority* (aAa).
+This often pops up in a team competition when every member of one team finishes before any of the opponent team's players. It comes from the old Fullspeed team *against All authority* (aAa).
 
 ##### Air-Brake (AB)
 Airbrake refers to the technique where you break while in the air. This stops forward rotation of your car and is used to make sure you get a flat landing. It is also commonly used to lower your air time.
