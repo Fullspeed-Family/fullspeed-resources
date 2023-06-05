@@ -99,15 +99,15 @@ A tube is a cyllindrical feature that you drive on the inside.
 A turnover is a feature that starts like a tube, but when you reach the top, it "turns around" and back. It is a way to do an instant 180 turn.
 ![Turnover](turnover.png)
 
-##### Tubewall
-A tubewall is a wallride as the entry to a tube. Some people also refer to these features as upwalls or corkscrews. The reverse would be a walltube or downwall.
-![Tubewall](tubewall.png)
-
 ##### Transition
 A transition refers to the connection between two sections. You're essentially *transitioning* from one part to another. Most people refer to transitions as some type of jump, but it doesn't have to be a jump as per defintion.
 
 ##### Wallride
 A wallride is a vertical and rounded wall that you can drive on. Typically used to do sharp 90 or 180 degree turns.
+
+##### Walltube
+A walltube is a feature where you enter a tube by going up wallride. Some people also refer to these features as upwalls or corkscrews. The reverse would be a walltube or downwall.
+![Tubewall](tubewall.png)
 
 ##### 1-wheel SD
 A 1-wheel SD is an SD, but you do it while only having 1 wheel touching the ground.
