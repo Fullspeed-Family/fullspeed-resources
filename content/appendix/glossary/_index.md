@@ -92,22 +92,25 @@ Speed limit usually refers to the state where your car is limited to 800 speed d
 A technique to start a speed drift by tapping the break very quickly. It was invented by a member of the team R4B and named it after that team.
 
 ##### Tube
-A tube is a cyllindrical feature that you drive on the inside.
+A tube is a cylindrical feature that you drive on the inside.
 ![Tube](tube.png)
+
+##### Tubewall
+Reverse of a [walltube](#walltube). Also called downwall or corkscrew.
 
 ##### Turnover
 A turnover is a feature that starts like a tube, but when you reach the top, it "turns around" and back. It is a way to do an instant 180 turn.
 ![Turnover](turnover.png)
-
-##### Tubewall
-A tube wall is an wallride as the entry to a tube. Some people also refer to these features as corkscrews.
-![Tubewall](tubewall.png)
 
 ##### Transition
 A transition refers to the connection between two sections. You're essentially *transitioning* from one part to another. Most people refer to transitions as some type of jump, but it doesn't have to be a jump as per defintion.
 
 ##### Wallride
 A wallride is a vertical and rounded wall that you can drive on. Typically used to do sharp 90 or 180 degree turns.
+
+##### Walltube
+A walltube is a feature where you enter a tube by going up wallride. Some people also refer to these features as upwalls or corkscrews. The reverse would be a tubewall or downwall.
+![Walltube](tubewall.png)
 
 ##### 1-wheel SD
 A 1-wheel SD is an SD, but you do it while only having 1 wheel touching the ground.
