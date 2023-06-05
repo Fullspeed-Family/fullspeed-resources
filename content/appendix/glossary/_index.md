@@ -92,8 +92,11 @@ Speed limit usually refers to the state where your car is limited to 800 speed d
 A technique to start a speed drift by tapping the break very quickly. It was invented by a member of the team R4B and named it after that team.
 
 ##### Tube
-A tube is a cyllindrical feature that you drive on the inside.
+A tube is a cylindrical feature that you drive on the inside.
 ![Tube](tube.png)
+
+##### Tubewall
+Reverse of a [walltube](#tubewall). Also called downwall or corkscrew.
 
 ##### Turnover
 A turnover is a feature that starts like a tube, but when you reach the top, it "turns around" and back. It is a way to do an instant 180 turn.
