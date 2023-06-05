@@ -107,7 +107,7 @@ A wallride is a vertical and rounded wall that you can drive on. Typically used 
 
 ##### Walltube
 A walltube is a feature where you enter a tube by going up wallride. Some people also refer to these features as upwalls or corkscrews. The reverse would be a walltube or downwall.
-![Tubewall](tubewall.png)
+![Walltube](tubewall.png)
 
 ##### 1-wheel SD
 A 1-wheel SD is an SD, but you do it while only having 1 wheel touching the ground.
