@@ -100,7 +100,7 @@ A turnover is a feature that starts like a tube, but when you reach the top, it 
 ![Turnover](turnover.png)
 
 ##### Tubewall
-A tube wall is an wallride as the entry to a tube. Some people also refer to these features as corkscrews.
+A tubewall is a wallride as the entry to a tube. Some people also refer to these features as upwalls or corkscrews. The reverse would be a walltube or downwall.
 ![Tubewall](tubewall.png)
 
 ##### Transition
