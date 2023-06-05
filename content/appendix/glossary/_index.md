@@ -109,7 +109,7 @@ A transition refers to the connection between two sections. You're essentially *
 A wallride is a vertical and rounded wall that you can drive on. Typically used to do sharp 90 or 180 degree turns.
 
 ##### Walltube
-A walltube is a feature where you enter a tube by going up wallride. Some people also refer to these features as upwalls or corkscrews. The reverse would be a walltube or downwall.
+A walltube is a feature where you enter a tube by going up wallride. Some people also refer to these features as upwalls or corkscrews. The reverse would be a tubewall or downwall.
 ![Walltube](tubewall.png)
 
 ##### 1-wheel SD
