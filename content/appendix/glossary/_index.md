@@ -96,7 +96,7 @@ A tube is a cylindrical feature that you drive on the inside.
 ![Tube](tube.png)
 
 ##### Tubewall
-Reverse of a [walltube](#tubewall). Also called downwall or corkscrew.
+Reverse of a [walltube](#walltube). Also called downwall or corkscrew.
 
 ##### Turnover
 A turnover is a feature that starts like a tube, but when you reach the top, it "turns around" and back. It is a way to do an instant 180 turn.
