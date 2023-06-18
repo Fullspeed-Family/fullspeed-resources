@@ -52,7 +52,7 @@ A hunter wall is a wall to banked transition, also refered to as a feature. It i
 ![Hunter Wall](hunter_wall.png)
 
 ##### Jeffrey
-The jeffery is a track feature where you exit a reverse turnover into a hunter wall, and down into a tube. It is typically recognized to be full magnet. It started off as a meme but people started using the name actively.
+The jeffery is a track feature used as exit of an upside down section by going over an upside down bank into a hunter wall, and often acts as entry into a tube. It is typically built fully with magnets. The name started off as a meme but is now established due to Jeffreys being put into maps more frequently.
 ![Jeffrey](jeffrey.png)
 
 ##### Loop
